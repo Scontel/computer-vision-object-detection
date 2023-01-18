@@ -476,3 +476,4 @@ Commit on 2023-01-18T16:59:39: Optimize database queries for faster retrieval
 Commit on 2023-01-18T19:31:15: Improve error handling and logging
 Commit on 2023-01-18T09:53:12: Fix minor bug in data processing
 Commit on 2023-01-18T09:04:58: Implement caching mechanism for frequent requests
+Commit on 2023-01-18T12:23:29: Update README with installation instructions
