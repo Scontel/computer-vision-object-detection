@@ -37,7 +37,7 @@ class ObjectDetector:
             rect = patches.Rectangle((x1, y1), x2 - x1, y2 - y1, linewidth=2, edgecolor='r', facecolor='none')
             ax.add_patch(rect)
             category_name = self.categories[label.item()]
-            ax.text(x1, y1, f'{category_name}: {score:.2f}', color='white', fontsize=10, bbox=dict(facecolor='red', alpha=0.5))
+            ax.text(x1, y1, f'{category_name}: {score:.2f}'", color='white', fontsize=10, bbox=dict(facecolor='red', alpha=0.5))
             
         plt.axis('off')
         plt.savefig(output_path, bbox_inches='tight')
