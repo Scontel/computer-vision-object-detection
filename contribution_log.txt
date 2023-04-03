@@ -585,3 +585,4 @@ Commit on 2023-03-31T10:37:06: Integrate new data source for training
 Commit on 2023-03-31T13:52:08: Optimize database queries for faster retrieval
 Commit on 2023-03-31T15:56:28: Update README with installation instructions
 Commit on 2023-03-31T14:22:49: Improve error handling and logging
+Commit on 2023-04-03T15:20:22: Clean up code and remove unused imports
