@@ -604,3 +604,4 @@ Commit on 2023-04-10T17:49:46: Optimize model training loop
 Commit on 2023-04-11T11:56:10: Optimize database queries for faster retrieval
 Commit on 2023-04-11T16:25:46: Optimize model training loop
 Commit on 2023-04-13T09:28:07: Update documentation and examples
+Commit on 2023-04-13T09:52:42: Fix edge case in input validation
