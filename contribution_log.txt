@@ -642,3 +642,4 @@ Commit on 2023-05-05T17:17:47: Update CI/CD pipeline configuration
 Commit on 2023-05-05T14:35:52: Update documentation and examples
 Commit on 2023-05-09T16:23:43: Improve memory management during inference
 Commit on 2023-05-09T11:26:03: Refactor core logic for better performance
+Commit on 2023-05-10T09:22:15: Clean up code and remove unused imports
