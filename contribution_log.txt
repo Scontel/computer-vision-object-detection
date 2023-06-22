@@ -690,3 +690,4 @@ Commit on 2023-06-16T16:59:09: Update README with installation instructions
 Commit on 2023-06-20T16:57:00: Enhance visualization of results
 Commit on 2023-06-20T13:58:26: Update CI/CD pipeline configuration
 Commit on 2023-06-21T16:40:06: Improve memory management during inference
+Commit on 2023-06-22T10:38:18: Improve memory management during inference
