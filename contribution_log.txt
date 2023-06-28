@@ -699,3 +699,4 @@ Commit on 2023-06-28T17:47:52: Add unit tests for new features
 Commit on 2023-06-28T10:05:46: Enhance security measures for API endpoints
 Commit on 2023-06-28T18:38:21: Enhance visualization of results
 Commit on 2023-06-28T11:27:44: Improve error handling and logging
+Commit on 2023-06-28T16:22:33: Improve memory management during inference
