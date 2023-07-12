@@ -718,3 +718,4 @@ Commit on 2023-07-07T11:44:39: Enhance visualization of results
 Commit on 2023-07-07T09:59:16: Clean up code and remove unused imports
 Commit on 2023-07-11T15:13:28: Add configuration options for hyperparameters
 Commit on 2023-07-11T14:22:47: Fix minor bug in data processing
+Commit on 2023-07-12T12:30:45: Update documentation and examples
