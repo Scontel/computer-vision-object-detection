@@ -726,3 +726,4 @@ Commit on 2023-07-14T11:23:36: Update documentation and examples
 Commit on 2023-07-17T09:34:57: Improve error handling and logging
 Commit on 2023-07-17T15:31:03: Clean up code and remove unused imports
 Commit on 2023-07-17T09:54:16: Improve error handling and logging
+Commit on 2023-07-17T14:36:22: Update documentation and examples
