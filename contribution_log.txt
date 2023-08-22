@@ -788,3 +788,4 @@ Commit on 2023-08-21T12:07:58: Improve memory management during inference
 Commit on 2023-08-21T13:36:55: Improve error handling and logging
 Commit on 2023-08-21T17:38:15: Improve error handling and logging
 Commit on 2023-08-22T19:41:11: Update documentation and examples
+Commit on 2023-08-22T14:55:34: Update documentation and examples
