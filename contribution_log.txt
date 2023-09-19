@@ -826,3 +826,4 @@ Commit on 2023-09-14T10:58:57: Update CI/CD pipeline configuration
 Commit on 2023-09-15T09:12:06: Add configuration options for hyperparameters
 Commit on 2023-09-15T11:13:50: Improve memory management during inference
 Commit on 2023-09-19T14:45:25: Clean up code and remove unused imports
+Commit on 2023-09-19T19:32:03: Add configuration options for hyperparameters
