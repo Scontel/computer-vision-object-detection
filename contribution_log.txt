@@ -897,3 +897,4 @@ Commit on 2023-10-31T18:42:06: Enhance visualization of results
 Commit on 2023-10-31T11:22:15: Enhance visualization of results
 Commit on 2023-10-31T17:58:08: Enhance security measures for API endpoints
 Commit on 2023-10-31T10:39:26: Update documentation and examples
+Commit on 2023-11-01T13:47:03: Update README with installation instructions
