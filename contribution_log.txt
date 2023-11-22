@@ -928,3 +928,4 @@ Commit on 2023-11-20T15:44:37: Update CI/CD pipeline configuration
 Commit on 2023-11-20T12:09:19: Clean up code and remove unused imports
 Commit on 2023-11-22T09:06:18: Integrate new data source for training
 Commit on 2023-11-22T10:04:57: Update README with installation instructions
+Commit on 2023-11-22T14:41:29: Fix edge case in input validation
