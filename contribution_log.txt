@@ -939,3 +939,4 @@ Commit on 2023-11-29T16:32:49: Update CI/CD pipeline configuration
 Commit on 2023-11-30T18:32:33: Improve error handling and logging
 Commit on 2023-11-30T10:48:32: Optimize model training loop
 Commit on 2023-11-30T11:54:47: Add configuration options for hyperparameters
+Commit on 2023-11-30T17:55:41: Update README with installation instructions
