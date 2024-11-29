@@ -16,3 +16,4 @@ Commit on 2024-11-25T16:14:24: Fix edge case in input validation
 Commit on 2024-11-25T12:37:28: Clean up code and remove unused imports
 Commit on 2024-11-27T11:40:34: Fix minor bug in data processing
 Commit on 2024-11-28T18:38:09: Clean up code and remove unused imports
+Commit on 2024-11-29T18:48:43: Update README with installation instructions
