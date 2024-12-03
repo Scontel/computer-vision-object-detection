@@ -20,3 +20,4 @@ Commit on 2024-11-29T18:48:43: Update README with installation instructions
 Commit on 2024-11-29T14:49:28: Refactor core logic for better performance
 Commit on 2024-12-02T16:30:31: Optimize model training loop
 Commit on 2024-12-03T13:30:38: Refactor core logic for better performance
+Commit on 2024-12-03T13:23:56: Improve error handling and logging
