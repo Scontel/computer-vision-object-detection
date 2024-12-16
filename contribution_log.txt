@@ -33,3 +33,4 @@ Commit on 2024-12-11T13:23:07: Add configuration options for hyperparameters
 Commit on 2024-12-11T09:21:32: Add unit tests for new features
 Commit on 2024-12-12T13:52:15: Clean up code and remove unused imports
 Commit on 2024-12-13T17:40:27: Optimize model training loop
+Commit on 2024-12-16T18:10:08: Update README with installation instructions
