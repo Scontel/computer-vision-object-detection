@@ -37,3 +37,4 @@ Commit on 2024-12-16T18:10:08: Update README with installation instructions
 Commit on 2024-12-16T18:00:57: Fix edge case in input validation
 Commit on 2024-12-17T14:42:42: Improve memory management during inference
 Commit on 2024-12-18T11:09:29: Improve error handling and logging
+Commit on 2024-12-18T18:13:09: Update README with installation instructions
