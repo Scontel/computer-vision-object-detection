@@ -45,3 +45,4 @@ Commit on 2024-12-26T14:20:02: Refactor core logic for better performance
 Commit on 2024-12-26T11:32:40: Fix edge case in input validation
 Commit on 2024-12-27T14:41:47: Add support for distributed training
 Commit on 2024-12-30T10:36:47: Enhance visualization of results
+Commit on 2024-12-31T09:37:25: Clean up code and remove unused imports
