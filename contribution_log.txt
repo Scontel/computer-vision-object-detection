@@ -48,3 +48,4 @@ Commit on 2024-12-30T10:36:47: Enhance visualization of results
 Commit on 2024-12-31T09:37:25: Clean up code and remove unused imports
 Commit on 2024-12-31T09:15:26: Update README with installation instructions
 Commit on 2025-01-03T12:11:53: Update README with installation instructions
+Commit on 2025-01-06T15:27:58: Refactor core logic for better performance
