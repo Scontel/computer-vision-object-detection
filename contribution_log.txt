@@ -57,3 +57,4 @@ Commit on 2025-01-14T13:52:53: Add unit tests for new features
 Commit on 2025-01-14T11:24:11: Improve memory management during inference
 Commit on 2025-01-14T11:22:40: Enhance visualization of results
 Commit on 2025-01-16T16:36:50: Fix minor bug in data processing
+Commit on 2025-01-17T18:36:05: Clean up code and remove unused imports
