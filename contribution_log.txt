@@ -97,3 +97,4 @@ Commit on 2025-02-27T13:44:12: Clean up code and remove unused imports
 Commit on 2025-02-28T11:37:31: Update dependencies to latest versions
 Commit on 2025-02-28T10:12:36: Enhance visualization of results
 Commit on 2025-02-28T10:07:59: Add support for distributed training
+Commit on 2025-03-04T18:58:34: Refactor core logic for better performance
