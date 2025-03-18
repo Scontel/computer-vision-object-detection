@@ -117,3 +117,4 @@ Commit on 2025-03-14T18:01:44: Improve memory management during inference
 Commit on 2025-03-14T15:43:26: Update documentation and examples
 Commit on 2025-03-17T09:45:14: Improve memory management during inference
 Commit on 2025-03-17T09:25:22: Optimize model training loop
+Commit on 2025-03-18T13:39:23: Add unit tests for new features
