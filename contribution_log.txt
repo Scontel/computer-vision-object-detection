@@ -127,3 +127,4 @@ Commit on 2025-03-20T10:20:08: Add configuration options for hyperparameters
 Commit on 2025-03-21T17:58:01: Update dependencies to latest versions
 Commit on 2025-03-21T10:07:36: Add unit tests for new features
 Commit on 2025-03-21T10:01:32: Improve error handling and logging
+Commit on 2025-03-24T16:37:32: Improve error handling and logging
