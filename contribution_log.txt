@@ -139,3 +139,4 @@ Commit on 2025-03-31T18:55:57: Refactor core logic for better performance
 Commit on 2025-04-01T10:53:21: Add support for distributed training
 Commit on 2025-04-02T17:49:07: Update README with installation instructions
 Commit on 2025-04-02T14:59:41: Add configuration options for hyperparameters
+Commit on 2025-04-02T18:50:36: Add configuration options for hyperparameters
