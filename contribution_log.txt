@@ -153,3 +153,4 @@ Commit on 2025-04-14T12:48:52: Update README with installation instructions
 Commit on 2025-04-15T15:23:39: Improve memory management during inference
 Commit on 2025-04-15T16:20:59: Add support for distributed training
 Commit on 2025-04-16T10:53:55: Enhance visualization of results
+Commit on 2025-04-17T12:31:01: Improve memory management during inference
