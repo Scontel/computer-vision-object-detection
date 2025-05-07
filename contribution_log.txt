@@ -172,3 +172,4 @@ Commit on 2025-05-02T14:38:05: Improve memory management during inference
 Commit on 2025-05-05T12:05:18: Update dependencies to latest versions
 Commit on 2025-05-06T15:50:03: Improve memory management during inference
 Commit on 2025-05-07T18:42:10: Implement new algorithm for data augmentation
+Commit on 2025-05-07T18:28:17: Update README with installation instructions
