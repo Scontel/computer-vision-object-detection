@@ -183,3 +183,4 @@ Commit on 2025-05-13T18:15:39: Update dependencies to latest versions
 Commit on 2025-05-15T15:26:52: Update README with installation instructions
 Commit on 2025-05-15T16:04:11: Add configuration options for hyperparameters
 Commit on 2025-05-19T13:30:45: Fix minor bug in data processing
+Commit on 2025-05-20T17:21:21: Update documentation and examples
