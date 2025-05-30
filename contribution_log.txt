@@ -193,3 +193,4 @@ Commit on 2025-05-23T16:02:04: Clean up code and remove unused imports
 Commit on 2025-05-28T10:31:29: Optimize model training loop
 Commit on 2025-05-28T12:04:31: Clean up code and remove unused imports
 Commit on 2025-05-29T18:51:55: Clean up code and remove unused imports
+Commit on 2025-05-30T16:26:03: Add unit tests for new features
