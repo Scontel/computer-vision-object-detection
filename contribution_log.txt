@@ -198,3 +198,4 @@ Commit on 2025-06-02T12:55:00: Fix edge case in input validation
 Commit on 2025-06-02T10:20:41: Add support for distributed training
 Commit on 2025-06-03T10:35:54: Update documentation and examples
 Commit on 2025-06-04T17:58:55: Clean up code and remove unused imports
+Commit on 2025-06-05T10:55:06: Add unit tests for new features
