@@ -250,3 +250,4 @@ Commit on 2025-08-01T15:51:18: Add support for distributed training
 Commit on 2025-08-01T15:54:54: Add support for distributed training
 Commit on 2025-08-04T16:26:34: Update documentation and examples
 Commit on 2025-08-04T16:31:45: Update documentation and examples
+Commit on 2025-08-04T09:49:10: Update README with installation instructions
