@@ -276,3 +276,4 @@ Commit on 2025-08-22T11:46:36: Update README with installation instructions
 Commit on 2025-08-25T10:23:57: Optimize model training loop
 Commit on 2025-08-27T15:28:07: Optimize model training loop
 Commit on 2025-08-27T15:06:09: Improve error handling and logging
+Commit on 2025-08-28T09:14:53: Improve error handling and logging
