@@ -330,3 +330,4 @@ Commit on 2025-10-27T11:34:51: Fix edge case in input validation
 Commit on 2025-10-28T13:20:25: Improve memory management during inference
 Commit on 2025-10-29T14:33:40: Add unit tests for new features
 Commit on 2025-10-30T18:37:55: Refactor core logic for better performance
+Commit on 2025-11-05T10:57:48: Add configuration options for hyperparameters
