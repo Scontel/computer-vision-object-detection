@@ -349,3 +349,4 @@ Commit on 2025-11-19T09:44:35: Improve error handling and logging
 Commit on 2025-11-19T09:59:24: Fix edge case in input validation
 Commit on 2025-11-20T17:10:08: Improve memory management during inference
 Commit on 2025-11-20T17:00:54: Fix edge case in input validation
+Commit on 2025-11-24T09:29:02: Update README with installation instructions
