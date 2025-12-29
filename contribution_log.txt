@@ -375,3 +375,4 @@ Commit on 2025-12-22T17:16:11: Add unit tests for new features
 Commit on 2025-12-23T17:16:11: Improve memory management during inference
 Commit on 2025-12-23T13:43:16: Improve memory management during inference
 Commit on 2025-12-23T14:43:16: Improve memory management during inference
+Commit on 2025-12-29T17:26:22: Enhance visualization of results
