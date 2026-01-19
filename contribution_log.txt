@@ -386,3 +386,4 @@ Commit on 2026-01-08T12:35:12: Refactor core logic for better performance
 Commit on 2026-01-09T18:00:46: Improve error handling and logging
 Commit on 2026-01-15T16:16:36: Update dependencies to latest versions
 Commit on 2026-01-19T18:10:02: Implement new algorithm for data augmentation
+Commit on 2026-01-19T10:55:31: Update README with installation instructions
