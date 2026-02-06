@@ -403,3 +403,4 @@ Commit on 2026-02-05T16:12:37: Add unit tests for new features
 Commit on 2026-02-05T15:18:52: Add configuration options for hyperparameters
 Commit on 2026-02-06T13:45:16: Fix edge case in input validation
 Commit on 2026-02-06T13:41:29: Clean up code and remove unused imports
+Commit on 2026-02-06T09:10:57: Refactor core logic for better performance
