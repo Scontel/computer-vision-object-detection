@@ -407,3 +407,4 @@ Commit on 2026-02-06T09:10:57: Refactor core logic for better performance
 Commit on 2026-02-10T14:48:14: Improve error handling and logging
 Commit on 2026-02-10T15:58:41: Refactor core logic for better performance
 Commit on 2026-02-10T09:55:36: Enhance visualization of results
+Commit on 2026-02-11T18:28:40: Add configuration options for hyperparameters
