@@ -413,3 +413,4 @@ Commit on 2026-02-12T10:24:07: Update documentation and examples
 Commit on 2026-02-12T12:07:50: Enhance visualization of results
 Commit on 2026-02-12T14:32:05: Improve memory management during inference
 Commit on 2026-02-16T14:24:42: Update documentation and examples
+Commit on 2026-02-16T15:27:06: Update dependencies to latest versions
