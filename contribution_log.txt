@@ -429,3 +429,4 @@ Commit on 2026-02-26T15:44:25: Optimize model training loop
 Commit on 2026-02-27T16:42:36: Enhance visualization of results
 Commit on 2026-02-27T09:09:27: Update README with installation instructions
 Commit on 2026-02-27T14:45:31: Improve memory management during inference
+Commit on 2026-03-02T12:53:01: Add configuration options for hyperparameters
